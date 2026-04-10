@@ -143,5 +143,5 @@ This project demonstrates an end-to-end machine learning workflow, from data pre
 
 ## 👤 Author
 
-Your Name
+Shamima Yeasmin
 GitHub: https://github.com/shy942
