@@ -70,13 +70,13 @@ The goal of this project is to build a predictive model that identifies customer
 
 ** Model **                 ** Train Accuracy **     ** Model Accuracy **
 
-**Random Forest Classifier**        **79.94%**                **80.69%**
+**Random Forest Classifier**        **79.94%**         --       **80.69%**
 
-**Logistic Regression**            **80.51%**                **81.21%**
+**Logistic Regression**            **80.51%**          --      **81.21%**
 
-**Decision Tree Classifier**        **99.84%**                **73.73%**
+**Decision Tree Classifier**        **99.84%**           --     **73.73%**
 
-**Support Vector Classifier**       **79.94%**                **80.69%**
+**Support Vector Classifier**       **79.94%**            --    **80.69%**
 
 ---
 
@@ -121,7 +121,7 @@ pip install -r requirements.txt
 ### 4. Run the project
 
 ```bash
-python main.py
+python notebook-customer-churn.ipynb
 ```
 
 ---
@@ -144,4 +144,4 @@ This project demonstrates an end-to-end machine learning workflow, from data pre
 ## 👤 Author
 
 Your Name
-GitHub: https://github.com/your-username
+GitHub: https://github.com/shy942
