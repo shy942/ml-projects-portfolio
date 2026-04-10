@@ -70,13 +70,13 @@ The goal of this project is to build a predictive model that identifies customer
 
 ** Model **                 ** Train Accuracy **     ** Model Accuracy **
 
-*Random Forest Classifier*        79.94%                80.69%
+**Random Forest Classifier**        **79.94%**                **80.69%**
 
-*Logistic Regression*             80.51%                81.21%
+**Logistic Regression**            **80.51%**                **81.21%**
 
-*Decision Tree Classifier*        99.84%                73.73%
+**Decision Tree Classifier**        **99.84%**                **73.73%**
 
-*Support Vector Classifier*       79.94%                80.69%
+**Support Vector Classifier**       **79.94%**                **80.69%**
 
 ---
 
