@@ -27,9 +27,11 @@ The goal of this project is to build a predictive model that identifies customer
 ## 🛠️ Tech Stack
 
 * Python
-* Pandas, NumPy
+* Pandas 
+* NumPy
 * scikit-learn
-* Matplotlib / Seaborn
+* Matplotlib  
+* Seaborn
 
 ---
 
