@@ -97,7 +97,7 @@ Profit = SUM(Sales[Revenue]) - SUM(Sales[Cost])
 
 ## 📌 Author
 
-Your Name
+Shamima Yeasmin
 
 ---
 
