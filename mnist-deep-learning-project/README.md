@@ -35,9 +35,8 @@ from tensorflow.keras.datasets import mnist
 
 * Python
 * TensorFlow / Keras
-* NumPy
 * Matplotlib
-* Scikit-learn
+* scikit-learn
 
 ---
 
@@ -114,6 +113,8 @@ These plots help in:
 
 ```bash
 pip install tensorflow matplotlib scikit-learn
+
+
 ```
 
 Run the notebook using Jupyter:
