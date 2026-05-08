@@ -14,7 +14,7 @@ Built a machine learning model to predict customer churn and identify customers 
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tools Used
 
 * Python
 * Pandas
@@ -34,9 +34,9 @@ Built a machine learning model to predict customer churn and identify customers 
 
 ---
 
-### 📈 Key Results
+### 📈 Key Insights
 
-* Built predictive model for churn classification
+* Built a predictive model for churn classification
 * Identified important factors influencing churn
 
 ---
