@@ -1,6 +1,6 @@
-# Superstore Sales Analytics and Forecasting Dashboard
+# 📊 Superstore Sales Analytics and Forecasting Dashboard
 
-## Project Overview
+## 🎯 Project Overview
 
 This project combines **Data Analytics**, **Business Intelligence**, and **Sales Forecasting** to analyze Superstore sales data and generate actionable business insights.
 
@@ -169,7 +169,7 @@ Ranks states according to total sales contribution.
 
 ---
 
-# Dataset Description
+# 📁 Dataset Description
 
 The project uses a Superstore sales dataset containing:
 
@@ -189,7 +189,7 @@ The project uses a Superstore sales dataset containing:
 
 ---
 
-# Business Questions Answered
+# 🔍 Business Questions Answered
 
 ### Sales Performance
 
@@ -219,7 +219,7 @@ The project uses a Superstore sales dataset containing:
 
 ---
 
-# Technologies Used
+# 🛠️ Technologies Used
 
 | Category                | Tools                |
 | ----------------------- | -------------------- |
@@ -269,9 +269,7 @@ Superstore-Sales-Analytics/
 # Future Improvements
 
 * Machine Learning-based forecasting models
-* Demand prediction by product category
 * Profit forecasting
-* Customer segmentation using clustering
 * Real-time dashboard integration
 * Automated reporting pipelines
 
